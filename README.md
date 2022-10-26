@@ -1,31 +1,31 @@
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
-## Answers
-# Puzzle 1
+# Answers
+## Puzzle 1
 
 Picked a feed rate of 0.029
 ![](puzzle1.png)
 
 
-# Puzzle 2
+## Puzzle 2
 
 Picked a kill rate of 0.065
 ![](puzzle2.png)
 
-# Puzzle 3
+## Puzzle 3
 
 Picked a D_B of 0.3
 ![](puzzle3.png)
 
 
-# Task 1
+## Task 1
 
 Changed the feed rate and the seed so I get a growing expansion from one of the corners.
 
 ![](seedandfeedratechanged.png)
 
 
-Task 2
+## Task 2
 
 Video provided (effectonVideo.mp4). 
 * Applied more height difference
