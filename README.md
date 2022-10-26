@@ -1,3 +1,34 @@
+# Haoquan Liang - Submission
+## Puzzle 1
+`feed_rate = 0.0298`   
+![puzzle1](puzzle1.gif)
+
+## Puzzle 2
+`kill_rate = 0.065`   
+![puzzle2](puzzle2.gif)
+
+## Puzzle 3
+`D_B = 0.24`   
+![puzzle3](puzzle3.gif)  
+
+## Task 1
+Control:   
+![task1c](task1c.gif)    
+Wrangle change:   
+```
+@P.y = fit(f@A, 0, 1.0, height, 0.0);
+@P.y *= 2.0 * abs(@P.x) + abs(@P.z);
+```
+![task1](task1.gif)  
+
+## Task 2
+Control:
+![task2c](task2c.gif)   
+![task2](task2.gif)  
+
+
+
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
