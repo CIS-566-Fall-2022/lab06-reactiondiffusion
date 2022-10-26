@@ -2,13 +2,13 @@
 
 ## Puzzle 1
 
-Feed rate = 0.028
+feed_rate = 0.028
 
 ![image](https://user-images.githubusercontent.com/3106877/198052585-ca97f0b7-4a29-47a4-a4ba-ef79adec607c.png)
 
 ## Puzzle 2
 
-Kill rate = 0.065
+kill_rate = 0.065
 
 ![image](https://user-images.githubusercontent.com/3106877/198052970-e004c88b-bafa-4528-80d1-7b34827667b9.png)
 
@@ -17,6 +17,25 @@ Kill rate = 0.065
 D_B = 0.25
 
 ![image](https://user-images.githubusercontent.com/3106877/198053692-9c3cc042-0c0d-4cc7-a201-52c06f32d8a1.png)
+
+## Task 1
+
+D_A = 1.19  
+D_B = 0.35  
+feed_rate = 0.053  
+kill_rate = 0.0596  
+
+The initial conditions were set using a noise function in the `set_seeds` node.
+
+https://user-images.githubusercontent.com/3106877/198058103-a82495dd-89c6-4ba7-96a5-e653ed8bdcda.mp4
+
+There is some strange behavior where it becomes striped:
+
+![image](https://user-images.githubusercontent.com/3106877/198058748-98949cd5-6136-4ae4-b77a-2a094578c700.png)
+
+I don't know what causes this but it's cool so it's fine with me.
+
+## Task 2
 
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
