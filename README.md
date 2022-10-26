@@ -3,8 +3,14 @@
 # Puzzle 1
 ![](dwe.gif)
 
+Puzzle 1 uses reaction diffusion to acheive a cellular mitosis-style animation.
 
-
+D_A = 1\
+D_B = 0.5\
+feed_rate = 0.027\
+kill_rate = 0.0608\
+delta_time = 1\
+Everything Else Default
 
 
 
