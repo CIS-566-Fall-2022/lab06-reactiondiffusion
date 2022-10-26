@@ -93,6 +93,14 @@ Modify the shape, size, or placement of the seeds in the playground to create an
 # Task 2
 Modify some of the parameters to create a cool effect. This effect can be displayed with a video or image, depending on whether you want to showcase the animated effect or the algorithm's result.
 
+# Cool Effects
+D_A = 0.7
+D_B = 0.12
+feed_rate = 0.050
+kill_rate = 0.06
+
+![ca0f92547827d71081141d5beacaf09e](https://user-images.githubusercontent.com/65415823/198064122-f00b5de3-421d-40d6-a5e3-753598ba286e.gif)
+
 # Submission
 - Create a pull request to this repository
 - In the README, include the names of both of your team members
