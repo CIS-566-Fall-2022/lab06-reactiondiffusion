@@ -1,5 +1,7 @@
 # Lab06 - Reaction Diffusion
 
+Worked some with Megan Reddy.
+
 # Puzzle 1
 ![](dwe.gif)
 
@@ -21,6 +23,19 @@ D_A = 1\
 D_B = 0.5\
 feed_rate = 0.055\
 kill_rate = 0.0653\
+delta_time = 1\
+Everything Else Default
+
+# Puzzle 3
+![](oige.gif)
+
+Puzzle 3 uses reaction diffusion to achieve concentric rings around the starting seeds, and my partner Megan Reddy verified she could see where they were based
+the end state.
+
+D_A = 1\
+D_B = 0.221\
+feed_rate = 0.055\
+kill_rate = 0.062\
 delta_time = 1\
 Everything Else Default
 
