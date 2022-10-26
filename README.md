@@ -25,7 +25,7 @@ delta_time = 1
 
 ```Feed Rate set to 0.0308```
 
-![](img/ReactionDiffusionLab_Puzzle1.png)
+![image](img/ReactionDiffusionLab_Puzzle1.gif)
 
 
 # Puzzle 2
