@@ -37,6 +37,15 @@ I don't know what causes this but it's cool so it's fine with me.
 
 ## Task 2
 
+D_A = 1  
+D_B = 0.5  
+feed_rate = 0.07  
+kill_rate = 0.062  
+
+I use the same noise-based seed as the previous task, but this time I added a moving circle to "erase" the chemicals.
+
+https://user-images.githubusercontent.com/3106877/198063830-d3ebeff4-4981-4b08-a039-fcae412a7bb7.mp4
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
