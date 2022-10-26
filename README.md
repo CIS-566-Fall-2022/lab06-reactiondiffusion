@@ -1,3 +1,112 @@
+# Submission
+
+Name: Megan Reddy \
+Partner: Joanna Fisch
+
+# Puzzle 1 - Cell Mitosis
+
+For this puzzle, I modified the **feed rate** to create a cellular mitosis effect.
+
+**feed_rate = 0.028**
+
+D_A = 1
+
+D_B = 0.5
+
+kill_rate = 0.0608
+
+delta_time = 1
+
+![Cell Mitosis GIF](cell_mitosis.gif)
+![Cell Mitosis Image](cell_mitosis.PNG)
+
+# Puzzle 2 - Equilibrium
+
+I modified the **kill_rate** to create this equilibrium effect. The middle circles do not vary much between the 5th and 100th frames.
+
+**kill_rate = 0.065**
+
+D_A = 1
+
+D_B = 0.5
+
+feed_rate = 0.055
+
+delta_time = 1
+
+![Equilibrium GIF](equilibrium.gif)
+
+Frame 5:
+
+![Equilibrium Image](equilibrium_5.PNG)
+
+Frame 100:
+
+![Equilibrium Image](equilibrium_100.PNG)
+
+# Puzzle 3 - Concentric Circles
+
+For this effect, I lowered the diffusion rate of chemical B so that the simulation preserves the original location of the seeds. Notice how the concentric circle patterns surround the original positions of the seeds.
+
+**D_B = 0.205**
+
+D_A = 1
+
+feed_rate = 0.055
+
+kill_rate = 0.062
+
+delta_time = 1
+
+![Concentric GIF](concentric.gif)
+
+Seed Placement:
+
+![Concentric Image](concentric_seeds.PNG)
+
+Frame 100:
+
+![Concentric Image](concentric.PNG)
+
+# Extra Tasks
+
+## Disappearing Seeds
+
+I used a VEX expression to modify the kill rate so that the seeds disappeared over time.
+
+D_A = 0.4
+
+D_B = 0.09
+
+feed_rate = 0.075
+
+kill_rate = sin(@Time) + 0.065
+
+delta_time = 1
+
+![Concentric Image](disappearing_squares.gif)
+
+## Water Simulation
+
+I used a VEX expression to vary the seed heights over time and played with a few of the other parameters (D_A, D_B, feed_rate, and kill_rate) to create this water-like animation.
+
+VEX Expression for height:
+```
+float offset = 0.5 * (sin(5.0 * @Time) + 1.0) + 0.43;
+@P.y = fit(f@A, 0, 1.0, height * offset, 0.0);
+```
+D_A = 0.67
+
+D_B = 0.4
+
+feed_rate = 0.0299
+
+kill_rate = 0.0536
+
+delta_time = 1
+
+![Concentric Image](water_simulation.gif)
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
