@@ -52,17 +52,15 @@ Frame 5
 Frame 100
 
 # Answer
-kill_rate = 0.0655
+kill_rate = 0.0654
 
 Frame 5
 
-<img width="549" alt="image" src="https://user-images.githubusercontent.com/65415823/198061064-0e152e0a-a9ee-4b9d-a80b-f136566443ab.png">
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/65415823/198061726-6887c14b-90db-4964-9724-4bade8b4788b.png">
 
 Frame 100
 
-<img width="554" alt="image" src="https://user-images.githubusercontent.com/65415823/198061169-35ce3f93-ba2d-4180-9bad-56529a39d414.png">
-
-
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/65415823/198061826-e191ac1a-dac8-4de5-9f1a-aebd090960c4.png">
 
 # Puzzle 3
 Modify the diffusion rate of chemical B (D_B) to create a simulation that still demonstrates where the seeds were at the start of the algorithm. There should be parts of concentric circles surrounding each seed location. To see if you're on the right track, run the simulation and then check (or have a friend check) and see if you can idenitfy where all the seeds were at the start of the algorithm!
