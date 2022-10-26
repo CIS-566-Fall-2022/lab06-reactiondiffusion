@@ -1,6 +1,40 @@
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
+# Solution
+
+# Puzzle 1
+Feed rate = 0.03
+
+https://user-images.githubusercontent.com/90112787/198100113-d2930ed6-9cfc-4493-9796-290b0e49d44c.mp4
+
+# Puzzle 2
+Kill rate = 0.065
+
+![Puzzle 2 2](https://user-images.githubusercontent.com/90112787/198098750-fd1a0f26-8c40-4c80-9649-c7823bf586b1.png)
+
+![Puzzle 2 1](https://user-images.githubusercontent.com/90112787/198098765-524772b7-a53d-4387-a661-4b5ce55ec974.png)
+
+# Puzzle 3
+D_B = 0.2
+
+![Puzzle 3 2](https://user-images.githubusercontent.com/90112787/198099090-38b6b266-cd45-4ead-95ed-c0d590bb5123.png)
+
+![Puzzle 3 1](https://user-images.githubusercontent.com/90112787/198099144-c301aba4-2ff0-4022-8232-23b46403ee0c.png)
+
+# Task 1
+
+![Task 1 2](https://user-images.githubusercontent.com/90112787/198099284-609f2a03-767b-4521-99d8-44b7ad60b1c6.png)
+
+https://user-images.githubusercontent.com/90112787/198099289-e12f90ef-7972-4ba4-8254-d63972bf2201.mov
+
+# Task 2
+
+![Task 2 2](https://user-images.githubusercontent.com/90112787/198099348-d7f3f9f8-c29b-4210-8e01-71205ceec226.png)
+
+https://user-images.githubusercontent.com/90112787/198099359-57d5e7b1-a2cb-4698-aa7a-3aed1fb14d02.mov
+
+
 # Setup
 Download and open Houdini with the ReactionDiffusionPlayground.hipc file found in this repository.
 
