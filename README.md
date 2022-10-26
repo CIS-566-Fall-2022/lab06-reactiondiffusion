@@ -17,8 +17,15 @@ kill_rate = 0.0608
 
 delta_time = 1
 
-
+**Refernce Image**
 ![image](https://user-images.githubusercontent.com/60444726/197622415-ca9b9623-d01b-4e54-9b1a-b79109248cab.png)
+
+
+**Result**
+
+```Feed Rate set to 0.0308```
+
+![](img/ReactionDiffusionLab_Puzzle1.png)
 
 
 # Puzzle 2
