@@ -12,8 +12,8 @@
 ![puzzle3](puzzle3.gif)  
 
 ## Task 1
-Control:   
-![task1c](task1c.gif)    
+Control:     
+![task1c](task1c.png)     
 Wrangle change:   
 ```
 @P.y = fit(f@A, 0, 1.0, height, 0.0);
@@ -22,8 +22,8 @@ Wrangle change:
 ![task1](task1.gif)  
 
 ## Task 2
-Control:
-![task2c](task2c.gif)   
+Control:    
+![task2c](task2c.png)   
 ![task2](task2.gif)  
 
 
