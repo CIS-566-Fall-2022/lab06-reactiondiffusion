@@ -1,3 +1,23 @@
+# Submission
+
+## Puzzle 1
+
+Feed rate = 0.028
+
+![image](https://user-images.githubusercontent.com/3106877/198052585-ca97f0b7-4a29-47a4-a4ba-ef79adec607c.png)
+
+## Puzzle 2
+
+Kill rate = 0.065
+
+![image](https://user-images.githubusercontent.com/3106877/198052970-e004c88b-bafa-4528-80d1-7b34827667b9.png)
+
+## Puzzle 3
+
+D_B = 0.25
+
+![image](https://user-images.githubusercontent.com/3106877/198053692-9c3cc042-0c0d-4cc7-a201-52c06f32d8a1.png)
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
