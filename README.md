@@ -17,7 +17,7 @@ kill_rate = 0.0608
 
 delta_time = 1
 
-**Refernce Image**
+**Reference Image**
 ![image](https://user-images.githubusercontent.com/60444726/197622415-ca9b9623-d01b-4e54-9b1a-b79109248cab.png)
 
 
@@ -41,16 +41,23 @@ feed_rate = 0.055
 
 delta_time = 1
 
-
+**Reference Images**
 
 ![image](https://user-images.githubusercontent.com/60444726/197624737-58ab1aca-accb-4b4a-9654-cdc5fe84e723.png)
 
 Frame 5
 
-
 ![image](https://user-images.githubusercontent.com/60444726/197624645-e5b13798-ae74-4e18-84dc-955a9919021c.png)
 
 Frame 100
+
+**Result**
+
+```Kill Rate set to 0.065```
+
+|Frame 5|Frame 100|
+|---|---|
+|![image](img/ReactionDiffusionLab_Puzzle2_1.gif)|![image](img/ReactionDiffusionLab_Puzzle2_2.gif)|
 
 # Puzzle 3
 Modify the diffusion rate of chemical B (D_B) to create a simulation that still demonstrates where the seeds were at the start of the algorithm. There should be parts of concentric circles surrounding each seed location. To see if you're on the right track, run the simulation and then check (or have a friend check) and see if you can idenitfy where all the seeds were at the start of the algorithm!
