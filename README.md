@@ -57,7 +57,7 @@ Frame 100
 
 |Frame 5|Frame 100|
 |---|---|
-|![image](img/ReactionDiffusionLab_Puzzle2_1.gif)|![image](img/ReactionDiffusionLab_Puzzle2_2.gif)|
+|![image](img/ReactionDiffusionLab_Puzzle2_1.png)|![image](img/ReactionDiffusionLab_Puzzle2_2.png)|
 
 # Puzzle 3
 Modify the diffusion rate of chemical B (D_B) to create a simulation that still demonstrates where the seeds were at the start of the algorithm. There should be parts of concentric circles surrounding each seed location. To see if you're on the right track, run the simulation and then check (or have a friend check) and see if you can idenitfy where all the seeds were at the start of the algorithm!
