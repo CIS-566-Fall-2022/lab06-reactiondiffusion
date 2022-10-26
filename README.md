@@ -52,7 +52,16 @@ Frame 5
 Frame 100
 
 # Answer
-kill_rate = 0.0654
+kill_rate = 0.0655
+
+Frame 5
+
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/65415823/198061064-0e152e0a-a9ee-4b9d-a80b-f136566443ab.png">
+
+Frame 100
+
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/65415823/198061169-35ce3f93-ba2d-4180-9bad-56529a39d414.png">
+
 
 
 # Puzzle 3
