@@ -2,7 +2,7 @@
 
 Worked some with Megan Reddy.
 
-# Puzzle 1
+# Puzzle 1 Solution
 ![](dwe.gif)
 
 Puzzle 1 uses reaction diffusion to acheive a cellular mitosis-style animation.
@@ -14,7 +14,7 @@ kill_rate = 0.0608\
 delta_time = 1\
 Everything Else Default
 
-# Puzzle 2
+# Puzzle 2 Solution
 ![](oiwef.gif)
 
 Puzzle 2 uses reaction diffusion to acheive an equlibrium effect very quickly after simulation startup.
@@ -26,7 +26,7 @@ kill_rate = 0.0653\
 delta_time = 1\
 Everything Else Default
 
-# Puzzle 3
+# Puzzle 3 Solution
 ![](oige.gif)
 
 Puzzle 3 uses reaction diffusion to achieve concentric rings around the starting seeds, and my partner Megan Reddy verified she could see where they were based
