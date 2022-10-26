@@ -37,6 +37,14 @@ feed_rate = 0.055
 
 delta_time = 1
 
+## Name and PennID
+Yuqi Zhang yuqiko 
+
+#First Puzzle
+![image](./1.png)
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/60444726/197624737-58ab1aca-accb-4b4a-9654-cdc5fe84e723.png)
