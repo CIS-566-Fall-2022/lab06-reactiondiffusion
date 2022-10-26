@@ -6,7 +6,7 @@ Let's play with the parameters and setup of the reaction-diffusion equation to c
 # Puzzle 1
 Feed rate = 0.03
 
-[![Image from Gyazo](https://i.gyazo.com/ce15acab75ca1efa613522a474d841a7.gif)](https://gyazo.com/ce15acab75ca1efa613522a474d841a7)
+https://user-images.githubusercontent.com/90112787/198100113-d2930ed6-9cfc-4493-9796-290b0e49d44c.mp4
 
 # Puzzle 2
 Kill rate = 0.065
