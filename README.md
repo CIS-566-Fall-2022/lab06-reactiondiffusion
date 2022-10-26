@@ -12,9 +12,21 @@ kill_rate = 0.0608\
 delta_time = 1\
 Everything Else Default
 
+# Puzzle 2
+![](oiwef.gif)
+
+Puzzle 2 uses reaction diffusion to acheive an equlibrium effect very quickly after simulation startup.
+
+D_A = 1\
+D_B = 0.5\
+feed_rate = 0.055\
+kill_rate = 0.0653\
+delta_time = 1\
+Everything Else Default
 
 
 
+# Instructions
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
 # Setup
