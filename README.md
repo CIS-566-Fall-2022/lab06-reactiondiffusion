@@ -1,6 +1,24 @@
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
+## Name and PennID
+Yuqi Zhang yuqiko 
+
+# Puzzle 1
+![image](./1.png)
+
+# Puzzle 2
+![image](./2.png)
+
+# Puzzle 3
+![image](./3.png)
+
+# Task 1
+![image](./4.png)
+I added a noise function to before the set seed node. I also changed the color and the random seed of the point. 
+
+
+
 # Setup
 Download and open Houdini with the ReactionDiffusionPlayground.hipc file found in this repository.
 
@@ -21,6 +39,9 @@ delta_time = 1
 ![image](https://user-images.githubusercontent.com/60444726/197622415-ca9b9623-d01b-4e54-9b1a-b79109248cab.png)
 
 
+feeding rate = 0.03
+
+
 # Puzzle 2
 Modify the **kill rate** to create an simulation that reaches equilibrium very quickly. The rings should be approximately where the starting seeds were, and there should be little change between the 5th and the 100th frame.
 
@@ -33,6 +54,9 @@ D_B = 0.5
 feed_rate = 0.055
 
 delta_time = 1
+
+
+
 
 
 
