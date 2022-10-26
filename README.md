@@ -1,4 +1,47 @@
 # Lab06 - Reaction Diffusion
+
+Worked some with Megan Reddy.
+
+# Puzzle 1 Solution
+![](dwe.gif)
+
+Puzzle 1 uses reaction diffusion to acheive a cellular mitosis-style animation.
+
+D_A = 1\
+D_B = 0.5\
+feed_rate = 0.027\
+kill_rate = 0.0608\
+delta_time = 1\
+Everything Else Default
+
+# Puzzle 2 Solution
+![](oiwef.gif)
+
+Puzzle 2 uses reaction diffusion to acheive an equlibrium effect very quickly after simulation startup.
+
+D_A = 1\
+D_B = 0.5\
+feed_rate = 0.055\
+kill_rate = 0.0653\
+delta_time = 1\
+Everything Else Default
+
+# Puzzle 3 Solution
+![](oige.gif)
+
+Puzzle 3 uses reaction diffusion to achieve concentric rings around the starting seeds, and my partner Megan Reddy verified she could see where they were based
+the end state.
+
+D_A = 1\
+D_B = 0.221\
+feed_rate = 0.055\
+kill_rate = 0.062\
+delta_time = 1\
+Everything Else Default
+
+
+
+# Instructions
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
 # Setup
