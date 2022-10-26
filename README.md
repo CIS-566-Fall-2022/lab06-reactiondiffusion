@@ -5,6 +5,8 @@ Let's play with the parameters and setup of the reaction-diffusion equation to c
 Download and open Houdini with the ReactionDiffusionPlayground.hipc file found in this repository.
 
 # Puzzle 1
+### Feed rate should be 0.03
+
 Modify the **feed rate** to create a cell mitosis (cellular division) affect.
 
 The other parameters will be as follows:
@@ -22,6 +24,7 @@ delta_time = 1
 
 
 # Puzzle 2
+### Kill rate should be 0.0651
 Modify the **kill rate** to create an simulation that reaches equilibrium very quickly. The rings should be approximately where the starting seeds were, and there should be little change between the 5th and the 100th frame.
 
 The other parameters will be as follows:
@@ -46,6 +49,7 @@ Frame 5
 Frame 100
 
 # Puzzle 3
+### D_B should be 0.2
 Modify the diffusion rate of chemical B (D_B) to create a simulation that still demonstrates where the seeds were at the start of the algorithm. There should be parts of concentric circles surrounding each seed location. To see if you're on the right track, run the simulation and then check (or have a friend check) and see if you can idenitfy where all the seeds were at the start of the algorithm!
 
 The other parameters will be as follows:
@@ -67,8 +71,23 @@ Frame 100
 # Task 1
 Modify the shape, size, or placement of the seeds in the playground to create an interesting effect. Which node might you need to adjust? How can you change the exisitng VEX to create something interesting?
 
+### Renders:
+<img width="524" alt="lab06-result" src="https://user-images.githubusercontent.com/33616958/198070509-f9815c05-64a7-4483-9592-c2f9c5904730.png">
+
+### Parameters:
+<img width="383" alt="lab06-parameter" src="https://user-images.githubusercontent.com/33616958/198070529-5a82c4c0-efe0-4731-9b3b-2d7b21ceea70.png">
+
+I also change the `set_seeds` node to change the position of the seeds.
+
+<img width="359" alt="lab06-code" src="https://user-images.githubusercontent.com/33616958/198070558-8e3b26b4-8b7b-4bce-9df9-e18552f5b8e8.png">
+
 # Task 2
 Modify some of the parameters to create a cool effect. This effect can be displayed with a video or image, depending on whether you want to showcase the animated effect or the algorithm's result.
+### Renders:
+Island:
+
+<img width="521" alt="lab06-result1" src="https://user-images.githubusercontent.com/33616958/198074144-36b28a4d-3682-4c85-ab87-e63b258481d8.png">
+
 
 # Submission
 - Create a pull request to this repository
