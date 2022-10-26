@@ -74,6 +74,12 @@ Seed Placement
 ![image](https://user-images.githubusercontent.com/60444726/197626365-9a91a0d6-1e6f-4b0f-838b-7047c153d860.png)
 Frame 100
 
+# Answer
+
+D_B = 0.205
+
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/65415823/198059713-15f5ae8b-b6fc-4fdf-835f-d876997d69fa.png">
+
 # Task 1
 Modify the shape, size, or placement of the seeds in the playground to create an interesting effect. Which node might you need to adjust? How can you change the exisitng VEX to create something interesting?
 
