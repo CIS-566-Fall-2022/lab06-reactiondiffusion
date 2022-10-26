@@ -1,4 +1,14 @@
 # Lab06 - Reaction Diffusion
+
+# Puzzle 1
+![](dwe.gif)
+
+
+
+
+
+
+
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
 # Setup
