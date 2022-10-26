@@ -90,6 +90,22 @@ D_B = 0.205
 # Task 1
 Modify the shape, size, or placement of the seeds in the playground to create an interesting effect. Which node might you need to adjust? How can you change the exisitng VEX to create something interesting?
 
+# Change the seeds
+I adjusted the seed_number and the min and max radius
+seed_number = 30
+min_radius = 0.2
+max_radius = 0.6
+D_A = 0.7
+D_B = 0.1
+feed_rate = 0.07
+kill_rate = 0.08
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/65415823/198068639-92906ea6-2d93-4412-a37f-1c7b4abc332c.gif)
+
+<img width="604" alt="image" src="https://user-images.githubusercontent.com/65415823/198068736-990cb5b3-b61b-4703-92c7-b4bf2d418849.png">
+
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/65415823/198068853-dae60f85-5af6-4a1e-b51f-07adc6ecb80a.png">
+
 # Task 2
 Modify some of the parameters to create a cool effect. This effect can be displayed with a video or image, depending on whether you want to showcase the animated effect or the algorithm's result.
 
