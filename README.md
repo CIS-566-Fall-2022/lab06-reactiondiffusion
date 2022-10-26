@@ -119,6 +119,16 @@ kill_rate = 0.06
 
 ![ca0f92547827d71081141d5beacaf09e](https://user-images.githubusercontent.com/65415823/198064122-f00b5de3-421d-40d6-a5e3-753598ba286e.gif)
 
+D_A = 0.8
+D_B = 0.3
+feed_rate = 0.055
+kill_rate = 0.06
+color change
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/65415823/198071654-b457512e-6928-4068-b25f-096b580e5709.gif)
+
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/65415823/198071737-8b4bfda2-57e1-4168-8c40-58b199af7277.png">
+
 # Submission
 - Create a pull request to this repository
 - In the README, include the names of both of your team members
