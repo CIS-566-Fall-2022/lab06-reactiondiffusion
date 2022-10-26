@@ -1,3 +1,36 @@
+team: just me today
+
+puzzle 1:
+
+gif: https://i.gyazo.com/93b5608f4ffa304b1c50861f8a290bc0.gif
+
+<img width="418" alt="puzzle1" src="https://user-images.githubusercontent.com/25019996/198068259-4473bcc5-9907-4313-8612-05616afb03a9.png">
+
+puzzle 2:
+
+gif: https://i.gyazo.com/dd8a61b5a185a579c3c89edb34c4f4c9.gif
+
+<img width="460" alt="puzzle2" src="https://user-images.githubusercontent.com/25019996/198068294-78b29483-3843-40bb-9f8f-bfc4ce59ec0b.png">
+
+puzzle 3:
+
+gif: https://i.gyazo.com/7234f0c66036be7c4b9652d5d2c2437a.gif
+
+<img width="460" alt="puzzle3" src="https://user-images.githubusercontent.com/25019996/198068312-6bcb0a88-bb48-4eea-aef1-ea19f0aab991.png">
+
+task 1:
+
+gif: https://i.gyazo.com/a15642dd406746c3d65d6699c1cc56f7.gif
+
+<img width="533" alt="Task1_vex" src="https://user-images.githubusercontent.com/25019996/198068343-c62f43a7-5a5b-43ea-92e7-6e4fe95a3f48.png">
+<img width="661" alt="Task1_params" src="https://user-images.githubusercontent.com/25019996/198068358-232f0ccb-61b7-4d2e-82e4-54d911fa3ccb.png">
+
+task 2:
+
+gif: https://i.gyazo.com/23df1240b66ffe7981e7d0c7fe48a9ec.gif
+
+<img width="660" alt="Task2" src="https://user-images.githubusercontent.com/25019996/198068371-cb43715b-97ba-4671-886e-15d09b7b7861.png">
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
