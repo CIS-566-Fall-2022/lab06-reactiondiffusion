@@ -1,3 +1,63 @@
+# Submission
+
+Name: Megan Reddy \
+Partner: Joanna Fisch
+
+# Puzzle 1 - Cell Mitosis
+
+**feed_rate = 0.028**
+
+D_A = 1
+
+D_B = 0.5
+
+kill_rate = 0.0608
+
+delta_time = 1
+
+![Cell Mitosis GIF](cell_mitosis.gif)
+![Cell Mitosis Image](cell_mitosis.PNG)
+
+# Puzzle 2 - Equilibrium
+
+**kill_rate = 0.065**
+
+D_A = 1
+
+D_B = 0.5
+
+feed_rate = 0.055
+
+delta_time = 1
+
+![Equilibrium GIF](equilibrium.gif)
+
+![Equilibrium Image](equilibrium_5.PNG)
+Frame 5
+
+![Equilibrium Image](equilibrium_100.PNG)
+Frame 100
+
+# Puzzle 3 - Concentric Circles
+
+**D_B = 0.205**
+
+D_A = 1
+
+feed_rate = 0.055
+
+kill_rate = 0.062
+
+delta_time = 1
+
+![Concentric GIF](concentric.gif)
+
+![Concentric Image](concentric_seeds.PNG)
+Seed Placement
+
+![Concentric Image](concentric.PNG)
+Frame 100
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
