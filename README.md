@@ -7,42 +7,15 @@ Download and open Houdini with the ReactionDiffusionPlayground.hipc file found i
 # Puzzle 1
 ### Feed rate should be 0.03
 
-Modify the **feed rate** to create a cell mitosis (cellular division) affect.
-
-The other parameters will be as follows:
-
-D_A = 1
-
-D_B = 0.5
-
-kill_rate = 0.0608
-
-delta_time = 1
-
-
 ![image](https://user-images.githubusercontent.com/60444726/197622415-ca9b9623-d01b-4e54-9b1a-b79109248cab.png)
 
 
 # Puzzle 2
 ### Kill rate should be 0.0651
-Modify the **kill rate** to create an simulation that reaches equilibrium very quickly. The rings should be approximately where the starting seeds were, and there should be little change between the 5th and the 100th frame.
-
-The other parameters will be as follows:
-
-D_A = 1
-
-D_B = 0.5
-
-feed_rate = 0.055
-
-delta_time = 1
-
-
 
 ![image](https://user-images.githubusercontent.com/60444726/197624737-58ab1aca-accb-4b4a-9654-cdc5fe84e723.png)
 
 Frame 5
-
 
 ![image](https://user-images.githubusercontent.com/60444726/197624645-e5b13798-ae74-4e18-84dc-955a9919021c.png)
 
@@ -50,17 +23,6 @@ Frame 100
 
 # Puzzle 3
 ### D_B should be 0.2
-Modify the diffusion rate of chemical B (D_B) to create a simulation that still demonstrates where the seeds were at the start of the algorithm. There should be parts of concentric circles surrounding each seed location. To see if you're on the right track, run the simulation and then check (or have a friend check) and see if you can idenitfy where all the seeds were at the start of the algorithm!
-
-The other parameters will be as follows:
-
-D_A = 1
-
-feed_rate = 0.055
-
-kill_rate = 0.062
-
-delta_time = 1
 
 ![image](https://user-images.githubusercontent.com/60444726/197626261-1e4fa5d4-d9d8-4563-8b92-c2b2a20038f7.png)
 Seed Placement
@@ -69,7 +31,6 @@ Seed Placement
 Frame 100
 
 # Task 1
-Modify the shape, size, or placement of the seeds in the playground to create an interesting effect. Which node might you need to adjust? How can you change the exisitng VEX to create something interesting?
 
 ### Renders:
 <img width="524" alt="lab06-result" src="https://user-images.githubusercontent.com/33616958/198070509-f9815c05-64a7-4483-9592-c2f9c5904730.png">
@@ -82,7 +43,6 @@ I also change the `set_seeds` node to change the position of the seeds.
 <img width="359" alt="lab06-code" src="https://user-images.githubusercontent.com/33616958/198070558-8e3b26b4-8b7b-4bce-9df9-e18552f5b8e8.png">
 
 # Task 2
-Modify some of the parameters to create a cool effect. This effect can be displayed with a video or image, depending on whether you want to showcase the animated effect or the algorithm's result.
 ### Renders:
 Island:
 
