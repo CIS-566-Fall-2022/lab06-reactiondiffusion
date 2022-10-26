@@ -86,7 +86,7 @@ delta_time = 1
 
 ![Concentric Image](disappearing_squares.gif)
 
-## Water Simulation?
+## Water Simulation
 
 I used a VEX expression to vary the seed heights over time and played with a few of the other parameters (D_A, D_B, feed_rate, and kill_rate) to create this water-like animation.
 
