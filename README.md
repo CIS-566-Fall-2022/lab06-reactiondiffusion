@@ -23,7 +23,9 @@ delta_time = 1
 # Answer:
 feed_rate = 0.0275
 
-![image](https://i.gyazo.com/9ad5c19a8ddd43d24dbec91864d94cde.gif)
+![9ad5c19a8ddd43d24dbec91864d94cde](https://user-images.githubusercontent.com/65415823/198054638-3bf8c634-e435-4a88-bc93-f65253fd3cc2.gif)
+
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/65415823/198054850-2da372dc-5e28-430e-9436-0d918c0413f4.png">
 
 # Puzzle 2
 Modify the **kill rate** to create an simulation that reaches equilibrium very quickly. The rings should be approximately where the starting seeds were, and there should be little change between the 5th and the 100th frame.
