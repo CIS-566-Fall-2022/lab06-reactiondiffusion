@@ -1,6 +1,64 @@
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
+# Demo
+## Puzzle01
+<img src="lab06-puzzle1-0.03.gif"  width="700">
+
+feed_rate = 0.03
+
+D_A = 1
+
+D_B = 0.5
+
+kill_rate = 0.0608
+
+delta_time = 1
+
+## Puzzle02
+<img src="lab06-puzzle2-0.0651.gif"  width="700">
+
+kill_rate = 0.0651
+
+D_A = 1
+
+D_B = 0.5
+
+feed_rate = 0.055
+
+delta_time = 1
+
+## Puzzle03
+<img src="lab06-puzzle3-0.2.gif"  width="700">
+
+D_B = 0.2
+
+D_A = 1
+
+feed_rate = 0.055
+
+kill_rate = 0.062
+
+delta_time = 1
+
+## Puzzle04
+<img src="lab06-puzzle4.gif"  width="700">
+
+I changed the seed shape from circle to oval by changing the distance to the equation of an ellipse 
+
+***d = pow((@P.x-nearPt.x),2)/A+pow((@P.z-nearPt.z),2)/B;***
+
+D_A = 1
+
+D_B = 0.25
+
+feed_rate = 0.055
+
+kill_rate = 0.065
+
+delta_time = 1
+
+
 # Setup
 Download and open Houdini with the ReactionDiffusionPlayground.hipc file found in this repository.
 
