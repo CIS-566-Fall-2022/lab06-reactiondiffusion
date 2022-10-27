@@ -1,4 +1,40 @@
 # Lab06 - Reaction Diffusion
+
+Puzzle 1 - feed rate = 0.0271
+
+![](puzzle1-14.png)
+
+Frame 14
+
+![](puzzle1-25.png) 
+ 
+Frame 25
+ 
+![](puzzle1-75.png)
+
+Frame 75
+
+
+Puzzle 2 - kill rate = 0.0652
+
+![](puzzle2-10.png) 
+
+Frame 10
+
+![](puzzle2-100.png)
+
+Frame 100
+
+Puzzle 3 - D_B = 0.236
+
+![](puzzle3-0.png)
+
+Frame 0
+
+![](puzzle3-100.png)
+
+Frame 100
+
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
 # Setup
