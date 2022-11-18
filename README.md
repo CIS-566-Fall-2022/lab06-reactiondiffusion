@@ -17,11 +17,11 @@ kill_rate = 0.0608
 
 delta_time = 1
 
-**Reference Image**
+**Reference Image**   
 ![image](https://user-images.githubusercontent.com/60444726/197622415-ca9b9623-d01b-4e54-9b1a-b79109248cab.png)
 
 
-**Result**
+**My Result (Solution)**
 
 ```Feed Rate set to 0.0308```
 
@@ -51,7 +51,7 @@ Frame 5
 
 Frame 100
 
-**Result**
+**My Result (Solution)**
 
 ```Kill Rate set to 0.065```
 
@@ -78,9 +78,9 @@ Seed Placement
 ![image](https://user-images.githubusercontent.com/60444726/197626365-9a91a0d6-1e6f-4b0f-838b-7047c153d860.png)
 Frame 100
 
-**Result**
+**My Result (Solution)**
 
-```Kill Rate set to 0.065```
+```D_B set to 0.29```
 
 |Frame 5 to 100|
 |---|
