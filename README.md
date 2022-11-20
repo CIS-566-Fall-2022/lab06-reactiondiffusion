@@ -1,6 +1,28 @@
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
+Name: Yilin Liu
+
+# Puzzle 1
+
+Feedrate: 0.03
+
+![](puzzle1.png)
+
+# Puzzle 2
+
+Killrate: 0.06515
+
+![](puzzle2_f5.png)
+
+![](puzzle2_f100.png)
+
+# Puzzle 3
+
+D_B: 0.25
+
+![](puzzle3.png)
+
 # Setup
 Download and open Houdini with the ReactionDiffusionPlayground.hipc file found in this repository.
 
@@ -34,7 +56,16 @@ feed_rate = 0.055
 
 delta_time = 1
 
+# Task 1
 
+By changing the D_B to 0.235, the cells expand circularly:
+
+![](task1.gif)
+
+# Task 2
+By applying an increaing killing rate, we can get effects like this:
+
+![](task2.gif)
 
 ![image](https://user-images.githubusercontent.com/60444726/197624737-58ab1aca-accb-4b4a-9654-cdc5fe84e723.png)
 
