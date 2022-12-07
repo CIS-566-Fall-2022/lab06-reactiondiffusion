@@ -75,3 +75,27 @@ Modify some of the parameters to create a cool effect. This effect can be displa
 - In the README, include the names of both of your team members
 - In the README, include a description of the task or puzzle you completed, screenshots/images (or videos!) of your results, AND the values for all the parameters you changed
 - There is no need to upload a Houdini File. Screenshots of your results and images (or written values) of the parameters will be sufficient!
+
+# Submission Content
+
+San Jewell worked alone... ._.
+
+## puzzle 1
+![image](puzzle1.png)
+
+## puzzle 2
+![image](puzzle2f6.png)
+![image](puzzle2f106.png)
+
+## puzzle 3
+![image](puzzle3f19.png)
+![image](puzzle3f98.png)
+
+## task 1
+corner starting points look sort of cool
+
+![image](task1.gif)
+
+## task 1
+I thought this looked something like the seal on one of those fancy pieces of chocolate. 
+![image](task2.png)
